@@ -1,4 +1,4 @@
-# My-Profile-
+# My-Profile
 
 ## Hi there, I'm Opeyemi 👋
 
@@ -9,7 +9,8 @@
 <p align="center">
   <a href="https://ng.linkedin.com/in/opeyemi-peter-394b333a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto: ismailopeyemi3310@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="+https://wa.link/37l835"><img src="https://img.shields.io/badge/WhatsApp-Connect-green?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://wa.me/2347079459811">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-green?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 ---
@@ -30,7 +31,7 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 
 ---
 
-## 🔭 Simple works
+## 🔭 Simple work done 
 
 - **Sales Data Analysis:** Exploring trends and KPIs using Excel and Power BI  
 - **Customer Insights Project:** Analyzing customer behavior patterns using SQL  
