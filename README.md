@@ -1,6 +1,6 @@
 # My-Profile-
 
-## Hi there, I'm Opeyemi Peter👋
+## Hi there, I'm Opeyemi 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Every+Aspect+of+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Exploring+Data+to+Drive+Better+Decisions" alt="Typing SVG" />
