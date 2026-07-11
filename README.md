@@ -11,6 +11,7 @@
   <a href="mailto: ismailopeyemi3310@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://wa.me/2349114913791">
   <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-green?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://discord.gg/HxyG436KH"><img src="https://img.shields.io/badge/Discord-Invite-navy?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
