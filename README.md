@@ -36,7 +36,9 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 
 - **Sales Data Analysis:** Exploring trends and KPIs using Excel and Power BI  
 - **Customer Insights Project:** Analyzing customer behavior patterns using SQL  
-- **Dashboard Design:** Building interactive dashboards focused on business decision-making  
+- **Dashboard Design:** Building interactive dashboards focused on business decision-making
+## Check out 
+- https://github.com/Cephasia/Sales-Data-Analysis
 
 ---
 
