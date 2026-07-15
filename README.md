@@ -63,24 +63,39 @@ An Excel-based business analysis project comparing Nigeria's leading commercial 
 
 💹 [Coming Soon!](README.md)
 
+## 📊 Dashboard Galler
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">📈 Sales KPI Dashboard</h3>
+<p align="center">
 
+  ![Sales KPI Dashboard](mine(dashboard).png)
+<p align="center">
+An executive sales performance dashboard that monitors key business metrics, regional sales trends, profitability, product performance, and year-over-year growth to support strategic business decisions.
+</td>
 
----
+<td width="33%" valign="top">
+<h3 align="center">🎬 Movie Analytics Dashboard</h3>
+<p align="center">
 
-## 📊 Dashboard Gallery chart
-[Dashboard 1](mine(dashboard).png)
+![Movie Analytics Dashboard](Mine002.png)
+</p>
+<p align="center">
+An interactive movie analytics dashboard exploring revenue, budget, profit, popularity, and voting trends to uncover the financial performance of films released between 2000 and 2017.
+</td>
 
----
-[Dashboard 2](Mine001.png)
+<td width="33%" valign="top">
+<h3 align="center">🏙️ Sales Performance Analysis Dashboard</h3>
+<p align="center">
 
----
-[Dashboard 3](mine2(dashboard).png)
-
----
-[Dashboard 4](Mine002.png)
-
----
-[Dashboard 5](Mine003.png)
+![Top Performing City Sales Dashboard](sales-dashboard-image-3.png)
+</p>
+<p align="center">
+A city-level sales performance dashboard highlighting the highest-performing city through revenue analysis, product performance, monthly sales trends, customer purchasing behavior, and executive business insights.
+</td>
+</tr>
+</table>
 
 ---
 
