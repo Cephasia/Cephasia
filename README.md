@@ -32,17 +32,39 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 
 ---
 
-## 🔭 Featured Project
+## 🔭 Featured Analytics Project
 
-- **Sales Data Analysis:** Exploring trends and KPIs using Excel and Power BI  
-- **Customer Insights Project:** Analyzing customer behavior patterns using SQL  
-- **Dashboard Design:** Building interactive dashboards focused on business decision-making
-## Check out 
-- 💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
-  
-- 👷 [Data Job Postings Project](https://github.com/Cephasia/Data-Job-Postings-Analysis)
+### 📊 Sales Data Analysis
+Performed end-to-end retail sales analysis using Python and Tableau to uncover revenue trends, top-performing products, customer purchasing patterns, and actionable business insights through interactive dashboards.
 
-- 💼 [Job Market Project](https://github.com/Cephasia/job-market-analysis)
+💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
+
+---
+### 💼 Job Market Analysis
+Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
+
+💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
+
+---
+### 📈 Data Job Postings Analysis
+Cleaned and analyzed over 975 real-world data job postings using Python, Excel, and Tableau to identify the most in-demand roles, leading hiring companies, top job locations, recruitment platforms, and market trends through executive dashboards.
+
+💹 [Data Job Postings Project](https://github.com/Cephasia/Data-Job-Postings-Analysis)
+
+---
+### 📉 End-to-end Analytics Solution
+Developed a complete analytics workflow covering data acquisition, cleaning, transformation, exploratory data analysis, dashboard development, and business reporting to support data-driven decision-making.
+
+💹 [End to End Analytics Project](https://github.com/Cephasia/end-to-end-Analytics-Solution)
+
+---
+### 🏦 Nigeria Commercial Banking Experience Analysis (Coming Soon)
+An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
+
+💹 [Coming Soon!](README.md)
+
+
+
 ---
 
 ## 📊 Dashboard Gallery chart
