@@ -28,7 +28,7 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 ---
 
 ### 🌐 Portfolio Website
-👉 **Calm down, I'm working on it atm!**
+👉 **🌐 Portfolio Website Coming Soon......** I'm currently developing my personal portfolio website. In meantime, explore my GitHub portfolio to view my end-to-end data analytics and business analysis projects.
 
 ---
 
