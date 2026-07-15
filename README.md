@@ -32,7 +32,7 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 
 ---
 
-## 🔭 Simple work done 
+## 🔭 Featured Project
 
 - **Sales Data Analysis:** Exploring trends and KPIs using Excel and Power BI  
 - **Customer Insights Project:** Analyzing customer behavior patterns using SQL  
@@ -43,6 +43,23 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 - 👷 [Data Job Postings Project](https://github.com/Cephasia/Data-Job-Postings-Analysis)
 
 - 💼 [Job Market Project](https://github.com/Cephasia/job-market-analysis)
+---
+
+## Dashboard Gallery chart
+[Dashboard 1](mine(dashboard).png)
+
+---
+[Dashboard 2](Mine001.png)
+
+---
+[Dashboard 3](mine2(dashboard).png)
+
+---
+[Dashboard 4](Mine002.png)
+
+---
+[Dashboard 5](Mine003.png)
+
 ---
 
 ## 🛠️ Technical Skillset
