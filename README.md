@@ -63,7 +63,7 @@ An Excel-based business analysis project comparing Nigeria's leading commercial 
 
 💹 [Coming Soon!](README.md)
 
-## 📊 Dashboard Galler
+## 📊 Dashboard Gallery
 <table>
 <tr>
 <td width="33%" valign="top">
