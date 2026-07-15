@@ -45,7 +45,7 @@ Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visuali
 - 💼 [Job Market Project](https://github.com/Cephasia/job-market-analysis)
 ---
 
-## Dashboard Gallery chart
+## 📊 Dashboard Gallery chart
 [Dashboard 1](mine(dashboard).png)
 
 ---
