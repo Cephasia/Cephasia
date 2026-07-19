@@ -3,7 +3,7 @@
 ## Hi there, I'm Opeyemi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Every+Aspect+of+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Exploring+Data+to+Drive+Better+Decisions;No+cap+,+Opeyemi+is+available+for+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Every+Aspect+of+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Exploring+Data+to+Drive+Better+Decisions;No+cap,+Opeyemi+is+available+for+you!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-I am an aspiring Data Analyst with a strong passion for transforming raw data into clear, meaningful insights that support better decision-making.
+I am a Data Analyst with a strong passion for transforming raw data into clear, meaningful insights that support better decision-making.
 
-I enjoy exploring data, identifying trends, and creating clear visualizations that help uncover valuable business insights. My goal is to continuously grow as a data professional and contribute to organizations by using data to solve real-world problems.
+I enjoy exploring data, identifying trends, and creating clear visualizations that help uncover valuable business insights. My goal is to contribute to organizations by using data to solve real-world problems.
 I am actively seeking opportunities to collaborate, and gain hands-on experience in the field of data analytics.
 
 Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visualization • Exploratory Data Analysis
