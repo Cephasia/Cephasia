@@ -58,10 +58,10 @@ Developed a complete analytics workflow covering data acquisition, cleaning, tra
 💹 [End to End Analytics Project](https://github.com/Cephasia/end-to-end-Analytics-Solution)
 
 ---
-### 🏦 Nigeria Commercial Banking Experience Analysis (Coming Soon)
+### 🏦 Nigeria Commercial Banking Experience Analysis
 An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
 
-💹 [Coming Soon!](README.md)
+💹 [Nigeria Commercial Banking Experience Analysis](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
 
 ## 📊 Dashboard Gallery
 <table>
