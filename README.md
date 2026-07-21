@@ -40,10 +40,10 @@ Performed end-to-end retail sales analysis using Python and Tableau to uncover r
 💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
 
 ---
-### 💼 Job Market Analysis
-Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
+### 🏦 Nigeria Commercial Banking Experience Analysis 
+An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
 
-💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
+💹 [Nigeria Commercial Banking Experience Analysis Project](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
 
 ---
 ### 📈 Data Job Postings Analysis
@@ -52,17 +52,18 @@ Cleaned and analyzed over 975 real-world data job postings using Python, Excel, 
 💹 [Data Job Posting Project](https://github.com/Cephasia/Data-Job-Posting-Analysis)
 
 ---
+### 💼 Job Market Analysis
+Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
+
+💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
+
+---
 ### 📉 End-to-end Analytics Solution
 Developed a complete analytics workflow covering data acquisition, cleaning, transformation, exploratory data analysis, dashboard development, and business reporting to support data-driven decision-making.
 
 💹 [End to End Analytics Project](https://github.com/Cephasia/end-to-end-Analytics-Solution)
 
----
-### 🏦 Nigeria Commercial Banking Experience Analysis 
-An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
-
-💹 [Nigeria Commercial Banking Experience Analysis Project](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
-
+--- 
 ## 📊 Dashboard Gallery
 <table>
 <tr>
