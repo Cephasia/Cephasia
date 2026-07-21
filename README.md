@@ -49,7 +49,7 @@ Analyzed real-world job market trends to identify hiring demand, top recruiting 
 ### 📈 Data Job Postings Analysis
 Cleaned and analyzed over 975 real-world data job postings using Python, Excel, and Tableau to identify the most in-demand roles, leading hiring companies, top job locations, recruitment platforms, and market trends through executive dashboards.
 
-💹 [Data Job Postings Project](https://github.com/Cephasia/Data-Job-Postings-Analysis)
+💹 [Data Job Posting Project](https://github.com/Cephasia/Data-Job-Posting-Analysis)
 
 ---
 ### 📉 End-to-end Analytics Solution
@@ -58,10 +58,10 @@ Developed a complete analytics workflow covering data acquisition, cleaning, tra
 💹 [End to End Analytics Project](https://github.com/Cephasia/end-to-end-Analytics-Solution)
 
 ---
-### 🏦 Nigeria Commercial Banking Experience Analysis
+### 🏦 Nigeria Commercial Banking Experience Analysis 
 An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
 
-💹 [Nigeria Commercial Banking Experience Analysis](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
+💹 [Nigeria Commercial Banking Experience Analysis Project](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
 
 ## 📊 Dashboard Gallery
 <table>
