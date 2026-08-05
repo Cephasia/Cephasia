@@ -15,23 +15,15 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-I am a Data Analyst with a strong passion for transforming raw data into clear, meaningful insights that support better decision-making.
-
-I enjoy exploring data, identifying trends, and creating clear visualizations that help uncover valuable business insights. My goal is to contribute to organizations by using data to solve real-world problems.
-I am actively seeking opportunities to collaborate, and gain hands-on experience in the field of data analytics.
-
-Skills: Python • SQL • Tableau • Pandas • Data Cleaning • Data Visualization • Exploratory Data Analysis
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making and business growth. I specialize in data analysis, business intelligence, dashboard development, data visualization, and analytical storytelling using Microsoft Excel, SQL, Python, Tableau, and Git. I enjoy solving real-world problems by collecting, cleaning, analyzing, and interpreting data to uncover trends, measure performance, and deliver actionable insights. I am committed to continuous learning, building impactful analytics solutions, and leveraging data to help organizations make smarter, evidence-based decisions.
 
 ---
-
 ### 🌐 Portfolio Website
 👉 **🌐 Portfolio Website Coming Soon......** I'm currently developing my personal portfolio website. In meantime, explore my GitHub portfolio to view my end-to-end data analytics and business analysis projects.
 
 ---
-
 ## 🔭 Featured Analytics Project
 
 ### 📊 Sales Data Analysis
