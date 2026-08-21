@@ -11,7 +11,6 @@
   <a href="mailto: ismailopeyemi3310@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://wa.me/2349114913791">
   <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-green?style=for-the-badge&logo=WhatsApp"></a>
-  <a href="https://discord.gg/HxyG436KH"><img src="https://img.shields.io/badge/Discord-Invite-navy?style=for-the-badge&logo=discord"></a>
 </p>
 
 ---
@@ -44,16 +43,16 @@ Cleaned and analyzed over 975 real-world data job postings using Python, Excel, 
 💹 [Data Job Posting Project](https://github.com/Cephasia/Data-Job-Posting-Analysis)
 
 ---
-### 💼 Job Market Analysis
-Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
-
-💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
-
----
 ### 📊 Sales Data Analysis
 Performed end-to-end retail sales analysis using Python and Tableau to uncover revenue trends, top-performing products, customer purchasing patterns, and actionable business insights through interactive dashboards.
 
 💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
+
+---
+### 💼 Job Market Analysis
+Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
+
+💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
 
 --- 
 ## 📊 Dashboard Gallery
