@@ -26,10 +26,10 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 ---
 ## 🔭 Featured Analytics Project
 
-### 📊 Sales Data Analysis
-Performed end-to-end retail sales analysis using Python and Tableau to uncover revenue trends, top-performing products, customer purchasing patterns, and actionable business insights through interactive dashboards.
+### 📉 Olist E-commerce SQL Analysis
+An end-to-end SQL analysis of the Olist Brazilian e-commerce dataset, covering data validation, exploratory analysis, customer and order behavior, delivery performance, product demand, payment activity, seller performance, and business recommendations.
 
-💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
+💹 [Olist E-commerce SQL Analysis Project](https://github.com/Cephasia/Olist-Ecommerce-SQL-Analysis)
 
 ---
 ### 🏦 Nigeria Commercial Banking Experience Analysis 
@@ -50,10 +50,10 @@ Analyzed real-world job market trends to identify hiring demand, top recruiting 
 💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
 
 ---
-### 📉 End-to-end Analytics Solution
-Developed a complete analytics workflow covering data acquisition, cleaning, transformation, exploratory data analysis, dashboard development, and business reporting to support data-driven decision-making.
+### 📊 Sales Data Analysis
+Performed end-to-end retail sales analysis using Python and Tableau to uncover revenue trends, top-performing products, customer purchasing patterns, and actionable business insights through interactive dashboards.
 
-💹 [End to End Analytics Project](https://github.com/Cephasia/end-to-end-Analytics-Solution)
+💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
 
 --- 
 ## 📊 Dashboard Gallery
