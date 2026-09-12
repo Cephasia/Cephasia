@@ -20,7 +20,16 @@ I am a Data Analyst passionate about transforming raw data into meaningful insig
 
 ---
 ### 🌐 Portfolio Website
-👉 **🌐 Portfolio Website Coming Soon......** I'm currently developing my personal portfolio website. In meantime, explore my GitHub portfolio to view my end-to-end data analytics and business analysis projects.
+- **It's finally here 👇**
+
+<a href="https://cephasia.github.io" >
+Opeyemi (Ismail) Peter's Portfolio Website
+</a>
+
+
+           All thoughts and well 
+      constructed criticism are highly 
+          appreciated 👍😊 Thanks 🤝
 
 ---
 ## 🔭 Featured Analytics Project
