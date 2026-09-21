@@ -41,7 +41,7 @@ An end-to-end SQL analysis of the Olist Brazilian e-commerce dataset, covering d
 
 ---
 ### 🏦 Nigeria Commercial Banking Experience Analysis 
-An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, transaction charges, accessibility, and service quality to uncover actionable business insights and recommendations.
+An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, and accessibility to uncover actionable business insights and recommendations.
 
 💹 [Nigeria Commercial Banking Experience Analysis Project](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
 
