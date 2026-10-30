@@ -1,121 +1,156 @@
-# My-Profile
+<h1 align="center">Hi, I'm Opeyemi👋</h1>
 
-## Hi there, I'm Opeyemi 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Every+Aspect+of+Data+into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Exploring+Data+to+Drive+Better+Decisions;No+cap,+Opeyemi+is+available+for+you!" alt="Typing SVG" />
-</div>
+<h3 align="center">Data & Business Intelligence Analyst</h3>
 
 <p align="center">
-  <a href="https://ng.linkedin.com/in/opeyemi-peter-394b333a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto: ismailopeyemi3310@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  I enjoy working with data, finding the story behind the numbers, and turning analysis into insights that help people make better decisions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/opeyemi-peter-394b333a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ismailopeyemi3310@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://wa.me/2349114913791">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat_Me-green?style=for-the-badge&logo=WhatsApp"></a>
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://cephasia.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
-## 🚀 About Me
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support informed decision-making and business growth. I specialize in data analysis, business intelligence, dashboard development, data visualization, and analytical storytelling using Microsoft Excel, SQL, Python, Tableau, and Git. I enjoy solving real-world problems by collecting, cleaning, analyzing, and interpreting data to uncover trends, measure performance, and deliver actionable insights. I am committed to continuous learning, building impactful analytics solutions, and leveraging data to help organizations make smarter, evidence-based decisions.
+## About Me
 
----
-### 🌐 Portfolio Website
-- **It's finally here 👇**
+I'm a Data & Business Intelligence Analyst with an interest in using data to understand business performance, uncover patterns, and answer meaningful questions.
 
-<a href="https://cephasia.github.io" >
-Opeyemi (Ismail) Peter's Portfolio Website
-</a>
+I work with tools such as SQL, Python, Excel, and Tableau to explore datasets, clean and analyze information, and build visual reports that make findings easier to understand.
 
+I enjoy the process of taking raw data, asking the right questions, and turning the results into something useful. My projects cover different areas, including business performance, customer experience, e-commerce, job market trends, and data quality.
 
-           All thoughts and well 
-      constructed criticism are highly 
-          appreciated 👍😊 Thanks 🤝
+I'm always learning, improving my approach, and looking for opportunities to work on problems where data can make a real difference.
 
----
-## 🔭 Featured Analytics Project
-
-### 📉 Olist E-commerce SQL Analysis
-An end-to-end SQL analysis of the Olist Brazilian e-commerce dataset, covering data validation, exploratory analysis, customer and order behavior, delivery performance, product demand, payment activity, seller performance, and business recommendations.
-
-💹 [Olist E-commerce SQL Analysis Project](https://github.com/Cephasia/Olist-Ecommerce-SQL-Analysis)
+**A little more about what I do:**
+- Explore and analyse datasets to identify trends, patterns, and opportunities.
+- Use SQL and Python for data cleaning, transformation, and analysis.
+- Build dashboards and reports that communicate findings clearly.
+- Translate analytical results into practical business insights.
+- Keep developing my technical and problem-solving skills through hands-on projects.
 
 ---
-### 🏦 Nigeria Commercial Banking Experience Analysis 
-An Excel-based business analysis project comparing Nigeria's leading commercial banks using customer experience, digital banking performance, and accessibility to uncover actionable business insights and recommendations.
 
-💹 [Nigeria Commercial Banking Experience Analysis Project](http://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
+## Featured Projects
+
+Here are five projects that reflect the kind of analysis I enjoy doing.
+
+### 1. Sunrise Coffee Chain Performance Analysis
+**Tools:** Tableau, Data Analysis, Business Intelligence
+
+An analysis of Sunrise Coffee Chain's performance, focusing on revenue, profitability, transactions, product categories, customer loyalty, and business trends. The project turns business data into an interactive dashboard and practical insights.
+
+[View Project Repository](https://github.com/Cephasia/Sunrise-Coffee-Performance-Analysis)
+
+### 2. Nigeria Commercial Banking Experience Analysis
+**Tools:** SQL, Data Analysis
+
+An exploration of commercial banking experiences in Nigeria, using data to examine customer experiences and identify patterns that can support a better understanding of the banking sector.
+
+[View Project Repository](https://github.com/Cephasia/Nigeria-Commercial-Banking-Experience-Analysis)
+
+### 3. Olist E-commerce SQL Analysis
+**Tools:** SQL, Data Analysis
+
+A SQL-based analysis of e-commerce data, exploring business performance and customer-related patterns to uncover useful insights from the dataset.
+
+[View Project Repository](https://github.com/Cephasia/Olist-Ecommerce-SQL-Analysis)
+
+### 4. NCAA Flight Data Audit
+**Tools:** Data Analysis, Data Quality
+
+An investigation focused on examining flight data, identifying inconsistencies, and understanding issues that can affect the reliability of data used for analysis.
+
+[View Project Repository](https://github.com/Cephasia/When-the-Numbers-Don-t-Add-Up)
+
+### 5. Data Job Postings Analysis
+**Tools:** Data Analysis, Data Visualization
+
+An exploration of data-related job postings to understand the roles, skills, and opportunities appearing across the data job market.
+
+[View Project Repository](https://github.com/Cephasia/Data-Job-Posting-Analysis)
 
 ---
-### 📈 Data Job Postings Analysis
-Cleaned and analyzed over 975 real-world data job postings using Python, Excel, and Tableau to identify the most in-demand roles, leading hiring companies, top job locations, recruitment platforms, and market trends through executive dashboards.
 
-💹 [Data Job Posting Project](https://github.com/Cephasia/Data-Job-Posting-Analysis)
+## Dashboard Gallery
 
----
-### 📊 Sales Data Analysis
-Performed end-to-end retail sales analysis using Python and Tableau to uncover revenue trends, top-performing products, customer purchasing patterns, and actionable business insights through interactive dashboards.
+A selection of dashboards and visual reports I've worked on.
 
-💹 [Sales Data Analysis Project](https://github.com/Cephasia/Sales-Data-Analysis)
+### Sunrise Coffee Chain Performance
 
----
-### 💼 Job Market Analysis
-Analyzed real-world job market trends to identify hiring demand, top recruiting companies, in-demand locations, and employment opportunities using data visualization and exploratory data analysis.
-
-💹 [Job Market Analysis Project](https://github.com/Cephasia/job-market-analysis)
-
---- 
-## 📊 Dashboard Gallery
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3 align="center">📈 Sales KPI Dashboard</h3>
 <p align="center">
-
-  ![Sales KPI Dashboard](mine(dashboard).png)
-<p align="center">
-An executive sales performance dashboard that monitors key business metrics, regional sales trends, profitability, product performance, and year-over-year growth to support strategic business decisions.
-</td>
-
-<td width="33%" valign="top">
-<h3 align="center">🎬 Movie Analytics Dashboard</h3>
-<p align="center">
-
-![Movie Analytics Dashboard](Mine002.png)
-</p>
-<p align="center">
-An interactive movie analytics dashboard exploring revenue, budget, profit, popularity, and voting trends to uncover the financial performance of films released between 2000 and 2017.
-</td>
-
-<td width="33%" valign="top">
-<h3 align="center">🏙️ Sales Performance Analysis Dashboard</h3>
-<p align="center">
-
-![Top Performing City Sales Dashboard](sales-dashboard-image-3.png)
-</p>
-<p align="center">
-A city-level sales performance dashboard highlighting the highest-performing city through revenue analysis, product performance, monthly sales trends, customer purchasing behavior, and executive business insights.
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technical Skillset
-
-### Data Analysis & Cleaning 
-<p>
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-
-### Dashboard Development 
-  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat&logo=tableau&logoColor=white">
+  <img src="https://raw.githubusercontent.com/Cephasia/Sunrise-Coffee-Performance-Analysis/main/01_Overview.png" width="90%" alt="Sunrise Coffee Overview Dashboard">
 </p>
 
-### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-Advanced-3776AB?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-Advanced-3776AB?style=flat&logo=matplotlib&logoColor=white">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cephasia/Sunrise-Coffee-Performance-Analysis/main/02_Dashboard_2.png" width="90%" alt="Sunrise Coffee Dashboard">
 </p>
 
-    Opeyemi (Ismail) Peter
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cephasia/Sunrise-Coffee-Performance-Analysis/main/03_Dashboard_2_Weekday_vs_Weekend.png" width="90%" alt="Sunrise Coffee Weekday vs Weekend Dashboard">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cephasia/Sunrise-Coffee-Performance-Analysis/main/07_Exec_Summary.png" width="90%" alt="Sunrise Coffee Executive Summary">
+</p>
+
+### Other Dashboards
+
+<p align="center">
+  <img src="mine(dashboard).png" width="90%" alt="Sales KPI Dashboard">
+</p>
+
+<p align="center">
+  <img src="Mine002.png" width="90%" alt="Movie Analytics Dashboard">
+</p>
+
+<p align="center">
+  <img src="sales-dashboard-image-3.png" width="90%" alt="City Sales Performance Dashboard">
+</p>
+
+---
+
+## Tools & Skills
+
+| Skill | Proficiency |
+|---|---|
+| SQL | Intermediate |
+| Excel | Advanced |
+| Tableau | Advanced |
+| Python | Advanced |
+| pandas | Advanced |
+| matplotlib | Advanced |
+
+---
+
+## Let's Connect
+
+I'm always open to connecting with fellow analysts, learning from others, sharing ideas, and exploring opportunities to contribute to meaningful data projects.
+
+<p align="center">
+  <a href="https://github.com/Cephasia">GitHub</a> •
+  <a href="https://www.linkedin.com/in/opeyemi-peter-394b333a1">LinkedIn</a> •
+  <a href="https://x.com/cephasia001">X</a> •
+  <a href="https://www.instagram.com/cepha_sia">Instagram</a> •
+  <a href="mailto:ismailopeyemi3310@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <b>Opeyemi (Ismail) Peter</b><br>
+  Data & Business Intelligence Analyst
+</p>
+
+<p align="center">
+  <i>© 2026 Opeyemi (Ismail) Peter. Built with purpose.</i>
+</p>
