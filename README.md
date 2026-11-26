@@ -140,17 +140,17 @@ I'm always open to connecting with fellow analysts, learning from others, sharin
 
 <p align="center">
   <a href="https://github.com/Cephasia">GitHub</a> •
-  <a href="https://www.linkedin.com/in/opeyemi-peter-394b333a1">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/cephasia">LinkedIn</a> •
   <a href="https://x.com/cephasia001">X</a> •
   <a href="https://www.instagram.com/cepha_sia">Instagram</a> •
   <a href="mailto:ismailopeyemi3310@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <b>Opeyemi (Ismail) Peter</b><br>
+  <b>Opeyemi Peter Ismail</b><br>
   Data & Business Intelligence Analyst
 </p>
 
 <p align="center">
-  <i>© 2026 Opeyemi (Ismail) Peter. Built with purpose.</i>
+  <i>© 2026 Opeyemi Peter Ismail. Built with purpose.</i>
 </p>
